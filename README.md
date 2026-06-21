@@ -129,3 +129,6 @@ This repository contains Python practice programs and examples covering fundamen
 ## Purpose
 
 This repository was created for learning and practicing Python programming concepts through hands-on examples and exercises.
+
+Source: <img width="700" height="145" alt="image" src="https://github.com/user-attachments/assets/886cadaf-a15a-40af-b3de-14fa812ed465" />
+
